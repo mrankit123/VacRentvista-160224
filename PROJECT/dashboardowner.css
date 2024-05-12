@@ -87,7 +87,7 @@ h1 {
     left:90px;
 }
 
-.Book-Now-button {
+.Add-Property-button {
     padding: 10px 20px;
     background-color: #f08629;
     color: #fff;
@@ -98,6 +98,6 @@ h1 {
     text-decoration: none;
 }
 
-.Book-Now-button:hover {
+.Add-property-button:hover {
     background-color: #555;
 }
